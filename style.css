@@ -1,3 +1,25 @@
 body{
-    background-color: rgb(176, 46, 170);
+    background-color: white;
+}
+td.a{
+    background-color: transparent;
+    box-shadow: none;
+}
+td{
+    background-color: aqua;
+    width: 70px;
+    height: 50px;
+    box-shadow: 1px 1px 3px black;
+    border-radius: 10px;
+    text-align: center;
+}
+td.b{
+    background-color: pink;
+
+}
+table{
+    border-spacing: 10px;
+}
+td.c{
+    background-color: rgb(254, 254, 147);
 }
