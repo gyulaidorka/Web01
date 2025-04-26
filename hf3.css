@@ -1,0 +1,25 @@
+#colspan{
+    background-color: rgb(61, 149, 122);
+}
+html{
+    color: rgb(7, 7, 34);
+    text-align: center;
+}
+table.a{
+border:dotted;
+}
+td.b{
+    background-color: rgb(228, 232, 106);
+    border-radius: 10%;
+}
+table{
+    border-radius: 10%;
+}
+td.c{
+    background-color: aquamarine;
+    border-radius: 10%;
+}
+#d{
+    background-color: rgb(228, 232, 106);
+    border-radius: 10%;
+}

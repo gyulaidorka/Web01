@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+#egy{
+    border-color: rgb(156, 162, 82);
+}
+#ketto{
+    border-color: rgb(185, 130, 58);
+    border: radius 100px; ;
+}
+ketto.a{
+    background-color: aquamarine;
+}
+ketto.b{
+    background-color: aqua;
+}
